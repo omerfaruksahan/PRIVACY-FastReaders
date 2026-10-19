@@ -15,8 +15,8 @@ policy page.
 The policy makes factual claims about what the app does and does not collect.
 Those claims have to stay true as the app changes — in particular the
 **Advertising** section, which describes the optional rewarded video that
-unlocks Premium for 3 hours, and what Google AdMob receives when someone watches
-one.
+unlocks Premium for 3 hours, and what Appodeal and its ad networks receive when
+someone watches one.
 
 The canonical copy lives with the app source (`mobile/PRIVACY.md` and
 `docs/privacy.html`). When it changes there, copy it here as `index.html` and
